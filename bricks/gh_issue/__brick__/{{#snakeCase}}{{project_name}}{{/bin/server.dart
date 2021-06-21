@@ -1,0 +1,1 @@
+// The "bin" folder will be created just because of this file, but lib/src will not

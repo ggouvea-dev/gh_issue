@@ -1,5 +1,3 @@
 bricks:
-  hello:
-    path: bricks/hello
   gh_issue:
     path: bricks/gh_issue
